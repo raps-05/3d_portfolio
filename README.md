@@ -1,4 +1,4 @@
-# Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js
+# My Game inspried 3d portfolio
 
 link: https://66c52e552c5b0e8bc401d46c--clever-valkyrie-df806f.netlify.app/
 ![image](https://github.com/user-attachments/assets/31e81a3d-4b15-4b57-9fde-dfe0373b608c)
