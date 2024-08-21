@@ -1,6 +1,8 @@
 # My Game inspired 3d portfolio
 
-link: https://66c52e552c5b0e8bc401d46c--clever-valkyrie-df806f.netlify.app/
+link: https://3d-portfolio-next24-task-1.netlify.app/
+
+
 ![image](https://github.com/user-attachments/assets/31e81a3d-4b15-4b57-9fde-dfe0373b608c)
 
 ![image](https://github.com/user-attachments/assets/ee67a873-cdef-4255-a8fe-3bedb0a52a5d)
